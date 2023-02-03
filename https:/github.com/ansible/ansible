@@ -1,0 +1,2 @@
+lib/ansible/modules/command.py
+lib/ansible/modules/shell.py
